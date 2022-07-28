@@ -112,32 +112,67 @@ h2 {
     color: red;
     font-size: xx-large;
 }
-
+h4 {
+    padding-top: 0.5rem;
+}
+#padding {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
 #est-temprana {
     grid-column-start: 2;
     width: 200px;
-    /* border: ; */
+     border-style:inset;
+     border-radius: 20px;
+     border-color: red;
+     text-align: center;
 }
 
 #escolar {
     grid-column-start: 4;
     width: 200px;
+    border-style:inset;
+    border-radius: 20px;
+    border-color: red;
+    text-align: center;
 }
 
 #after-school {
     grid-column-start: 6;
     width: 200px;
+    border-style:inset;
+    border-radius: 20px;
+    border-color: red;
+    text-align: center;
 }
 
 #familia {
     grid-column-start: 8;
     width: 200px;
+    border-style:inset;
+    border-radius: 20px;
+    border-color: red;
+    text-align: center;
 }
 
 #infantiles {
     grid-column-start: 10;
     width: 200px;
+    border-style:inset;
+    border-radius: 20px;
+    border-color: red;
+    text-align: center;
+    
 }
+#width200 {
+    width: 200px;
+    height: 220px;
+    border-radius: 20px;
+ 
+}
+
 
 h4 {
     padding-bottom: 33px;
