@@ -227,3 +227,78 @@ h5 {
     background-color: rgb(231, 227, 227);
     width: 33%;
 }
+
+@media screen and (max-width: 650px){
+    .container {
+        width: 100%;
+        display: block;
+        
+        /* background-color: aqua; */
+    }
+    .container a {
+        display: block;
+        text-align:inherit;
+        background-color: rgb(153, 217, 234);
+    }
+    .jumbotron {
+        display: block;
+        margin-top: 18rem;
+        
+
+    }
+    #intro{
+        
+        /* background-color: rgb(153, 217, 234); */
+        width: auto;
+        
+    }
+    .catalogo {
+        display: inline-block;
+        
+        
+        
+    }
+    #est-temprana {
+        width: 75%;
+        margin-bottom: 10px;
+         margin-left: 12%;
+        
+        
+        
+    }
+    #escolar {
+        width: 75%;
+        margin-bottom: 10px;
+         margin-left: 12%;
+       
+   
+        
+    }
+    #after-school {
+        width: 75%;
+        margin-bottom: 10px;
+         margin-left: 12%;
+        
+    }
+    #familia {
+        width: 75%;
+        margin-bottom: 10px;
+         margin-left: 12%;
+        
+    }
+    #infantiles {
+        width: 75%;
+        margin-bottom: 10px;
+         margin-left: 12%;
+        
+    } 
+    #width200 {
+        width: 100%;
+    }
+    .add {
+        display: none;
+    }
+     
+
+}
+    
